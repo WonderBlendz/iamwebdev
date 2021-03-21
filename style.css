@@ -57,7 +57,7 @@
 	transition: all 0.3s ease;
 }
 .navbar .menu li a:hover{
-	color: maroon;
+	color: darkorchid;
 }
 /* Menu Button */
 .menu-btn{
@@ -69,7 +69,7 @@
 	display: flex;
 	background: url("image/2banner.jpg") repeat center;
 	height: 100vh;
-	color: darkorchid;
+	color: black;
 	min-height: 500px;
 	max-height: 840px;
 	background-size: cover;
@@ -92,7 +92,7 @@
 }
 .home .home-content a{
 	display: inline-block;
-	background: maroon;
+	background: black;
 	color: white;
 	font-size: 20px;
 	padding: 12px 36px;
@@ -150,7 +150,7 @@ section{
 /* Style for Services Section */
 .services{
 	color: black;
-	background: rosybrown;
+	background: gainsboro;
 }
 .services .title{
 	font-family: 'Montserrat', sans-serif;
@@ -167,7 +167,7 @@ section{
 }
 .services .services-content .card{
 	width: calc(33% - 20px);
-	background: white;
+	background: gainsboro;
 	text-align: center;
 	border-radius: 6px;
 	padding: 20px 25px;	
@@ -230,7 +230,7 @@ section{
 }
 .skills .skills-content a{
 	display: inline-block;
-	background: maroon;
+	background: black;
 	color: white;
 	font-size: 20px;
 	padding: 12px 36px;
@@ -383,7 +383,7 @@ section{
 .contact .right form .button button{
 	width: 100%;
 	height: 100%;
-	background: maroon;
+	background: black;
 	border: 2px black;
 	outline: none;
 	color: white;

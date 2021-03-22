@@ -173,6 +173,7 @@ section{
 	text-align: center;
 	border-radius: 6px;
 	padding: 20px 25px;
+	font-family: 'Montserrat', sans-serif;
 }
 .services .services-content .card:hover{
 	background: plum;
